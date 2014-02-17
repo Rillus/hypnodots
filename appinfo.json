@@ -1,0 +1,17 @@
+{
+  "uuid": "b0d2978c-93c8-4978-aea3-31b6603d5c74",
+  "shortName": "HypnoDots",
+  "longName": "HypnoDots",
+  "companyName": "Ding Digital",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
